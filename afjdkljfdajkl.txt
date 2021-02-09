@@ -1,0 +1,7 @@
+I knew a smart Kippums like you could unlock this!
+
+Your passphrase is:
+superSECRETkippumPASSPHRASE
+
+You have to enter it in the first prompt of the adventure script,
+in order to unlock the final 'Part Four'.
