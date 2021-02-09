@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+html {
+	font-family: 'Press Start 2P', sans-serif;
+}
+
+body {
+	background-color: #4a4a7c;
+	color: #de77d1;
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.container {
+	width: 400px;
+	margin-top: 2rem;
+}
+
+h1 {
+	font-size: 1.5rem;
+	line-height: 1.2;
+	margin-bottom: 1rem;
+}
+
+p {
+	font-size: 0.95rem;
+	line-height: 1.2;
+	margin: 1rem 0;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
